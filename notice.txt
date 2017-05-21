@@ -1,0 +1,2 @@
+#This file is created to test the usage of git pull command
+#Now we are going to demonstrate the usage of git push command
