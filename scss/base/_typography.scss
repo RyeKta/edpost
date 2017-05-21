@@ -1,0 +1,45 @@
+//Typography
+
+h1, .h1,
+h2, .h2,
+h3, .h3,
+h4, .h4,
+h5, .h5,
+h6, .h6{
+	font-family: $heading-font-family;
+	color: $heading-color;
+	font-weight: bold;
+	margin: 0;
+}
+
+h1,
+.h1{
+    line-height: 1.230em;/* 64px /53px = 1.230em*/
+    font-size: $h1-font-size; /* 52px /20px = 2.618em*/
+}
+h2,
+.h2{
+    line-height: 1.22em; /*  39px / 48px */
+    font-size: $h2-font-size; /* 39px /20px = 1.978em*/
+}
+h3,
+.h3{
+    line-height: 1.218em; /* 39px /32px */
+    font-size: $h3-font-size; /* 32.36 /20px */
+}
+h4,
+.h4{
+    line-height: 1.333em; /*32px/24px */
+    font-size: $h4-font-size;/* 24px / 20px */
+}
+h5,
+.h5,
+{
+	line-height: 1.618em;
+    font-size: $h5-font-size;
+}
+h6,
+.h6{
+    line-height: 1.618em;
+    font-size: $h6-font-size;
+}
