@@ -2,3 +2,4 @@
 #Now we are going to demonstrate the usage of git push command
 #Checkking for usage of SSH protocol
 #Demonstrating the usage of Https: protocol for git hub
+#ssh communication based on password
