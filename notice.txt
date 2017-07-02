@@ -4,3 +4,4 @@
 #Demonstrating the usage of Https: protocol for git hub
 #ssh communication based on password
 ##using diff tool for single file only
+##automatic merge
