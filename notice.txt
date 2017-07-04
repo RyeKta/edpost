@@ -6,3 +6,4 @@
 ##using diff tool for single file only
 ##automatic merge
 developer.rkrishna@gmail.com
+Copyright 2016-2017 Krishna Rai
