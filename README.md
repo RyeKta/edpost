@@ -9,4 +9,6 @@ Materialize is used as a framework for this project. This is just awesome but ha
 ##Copyright
 Copyright Git training
 Please fork this repository
+##How to contribute
+please fork this repository
 
