@@ -5,3 +5,4 @@
 #ssh communication based on password
 ##using diff tool for single file only
 ##automatic merge
+developer.rkrishna@gmail.com
