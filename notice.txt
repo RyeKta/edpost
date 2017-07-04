@@ -6,3 +6,5 @@
 ##using diff tool for single file only
 ##automatic merge
 developer.rkrishna@gmail.com
+A very respectful website.
+I'm not sure what will go 
