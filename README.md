@@ -8,7 +8,7 @@ Main css for this site.Needed some changes to work properly
 Materialize is used as a framework for this project. This is just awesome but have some issues in carousel
 ##Copyright
 Copyright Git training
-Please fork this repository.Just using the test page
+Please fork this repository.Just using the test page, more changes from my feature branch too
 ##How to contribute
 please fork this repository
 
