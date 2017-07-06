@@ -11,5 +11,7 @@ Copyright Git training. All Rights Reserved
 Please fork this repository.Just using the test page, more changes from my feature branch too
 ##How to contribute
 please fork this repository
-
+##Technology
+HTML5, CSS3,
+Jquery
 
