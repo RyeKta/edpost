@@ -1,5 +1,5 @@
 # edpost
-Layout changes for edainikpost
+Layout changes for edainikpost. Doing a emergency fix
 ##CSS changes
 layout were changed as per discussed and implemented too 
 ##app.css
